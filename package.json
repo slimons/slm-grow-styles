@@ -1,0 +1,16 @@
+{
+  "name": "slm-grow-styles",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.css",
+  "scripts": {
+    "dist": "gulp"
+  },
+  "author": "Javier Ponferrada López",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-sass": "^4.1.0"
+  }
+}
